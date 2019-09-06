@@ -1,0 +1,2 @@
+# SQLiteDB
+insert,upate,delete
