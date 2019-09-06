@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Datab</string>
+    <string name="addin">Add</string>
+    <string name="select">SELECTALL</string>
+    <string name="sign">SIGNIN</string>
+    <string name="DEL">DELETE</string>
+    <string name="up">UPDATE</string>
+</resources>
